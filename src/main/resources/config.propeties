@@ -1,0 +1,5 @@
+login = admin
+password = admin
+feedback = http://feedback-backend.ci.sandsiv.com/feedback/
+SSO = http://sso.ci-fb.sandsiv.com
+browser = firefox
